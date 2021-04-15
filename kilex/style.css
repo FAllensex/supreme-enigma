@@ -1,0 +1,36 @@
+/*
+Theme Name: kilex
+Author: Nicolo Sirbiladze
+Author URI: https://zacgordon.com/
+Description: Demo theme for learning the WordPress Template Hierarchy
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wphierarchy
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+Lorem to the longer descriptionum.
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.nav-links a{
+    color: white;
+    text-decoration: none;
+}
+.nav-links li{
+    text-decoration: none;
+    list-style-type: none;
+    float: right;
+    padding: 14px;
+}
+#title{
+    text-decoration: none;
+    color: white;
+
+}
